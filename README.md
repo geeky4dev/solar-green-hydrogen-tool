@@ -13,7 +13,7 @@ Hosting	Compatible with Render, Vercel, or Netlify
 
 ## 🚀 Features  
 
-1.🌍 When the user clicks on the map:  
+ 1.🌍 When the user clicks on the map:  
   - ☀️ A query is made to NASA POWER (as you already have) to show Solar Irradiation.  
   - 📡 A query is made to the Overpass API looking for natural=coastline nodes within a 100 km (100,000 m) radius.  
   - 📡The minimum distance between the clicked point and the coastline nodes is calculated using the Haversine formula.  
