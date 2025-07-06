@@ -59,7 +59,7 @@ Solar-green-hydrogen-tool/
   - Keetmanshoop, Namibia  
   - Yuma, Arizona, USA  
   - Phonix, Arizona, USA  
-  - Aswan; Egypt  
+  - Aswan, Egypt  
   - Luxor, Egypt  
   - Atacama Desert, Chile  
   - And more!  
