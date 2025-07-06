@@ -5,7 +5,7 @@ Welcome to the **Green-Hydrogen-Tool** 🌿 – a fullstack web app designed to 
 ## 🧱 Tech Stack  
 Layer	Technology  
 Frontend	React + Vite + Bootstrap + Leaflet + Recharts  
-Backend	Flask (Python) + NASA POWER API  
+Backend	Flask (Python) + NASA POWER API   
 Geo Tools	Overpass API (OpenStreetMap) for coast proximity  
 Maps	OpenStreetMap + Leaflet.js  
 Hosting	Compatible with Render, Vercel, or Netlify  
