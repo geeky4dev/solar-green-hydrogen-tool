@@ -3,7 +3,7 @@
 Welcome to the **Green-Hydrogen-Tool** 🌿 – a fullstack web app designed to assist engineers and planners in evaluating the solar potential and sizing hydrogen electrolyzers for smart microgrids. This project is divided into two functional parts, built step-by-step using modern tools and real-world data sources.
 
 ## 🧱 Tech Stack  
-Layer	Technology  
+
 Frontend	React + Vite + Bootstrap + Leaflet + Recharts  
 Backend	Flask (Python) + NASA POWER API   
 Geo Tools	Overpass API (OpenStreetMap) for coast proximity   
