@@ -2,13 +2,13 @@
 
 Welcome to the **Green-Hydrogen-Tool** 🌿 – a fullstack web app designed to assist engineers and planners in evaluating the solar potential and sizing hydrogen electrolyzers for smart microgrids. This project is divided into two functional parts, built step-by-step using modern tools and real-world data sources.
 
-
-## 🔧 Stack Recommendation  
-•	Frontend: React + Vite + Leaflet + Chart.js or Recharts  
-•	Backend: Flask (Python) with FastAPI (optional for performance)  
-•	Data: NASA POWER API or PVGIS API for solar irradiation  
-•	Geo Tools: Overpass API de OpenStreetMap  
-•	Map tiles: OpenStreetMap with Leaflet  
+## 🧱 Tech Stack  
+Layer	Technology  
+Frontend	React + Vite + Bootstrap + Leaflet + Recharts  
+Backend	Flask (Python) + NASA POWER API  
+Geo Tools	Overpass API (OpenStreetMap) for coast proximity  
+Maps	OpenStreetMap + Leaflet.js  
+Hosting	Compatible with Render, Vercel, or Netlify  
 
 
 ## 🚀 Features  
@@ -83,15 +83,6 @@ o	🟡 Solar farm rated power (kW)
 o	🔋 Battery storage capacity (kWh)  
 o	🌞 Site-specific irradiation data (from Part 1)  
 •	Simple interactive UI in React with sliders, dropdowns and live outputs.  
-________________________________________
-
-🧱 Tech Stack  
-Layer	Technology  
-Frontend	React + Vite + Bootstrap + Leaflet + Recharts  
-Backend	Flask (Python) + NASA POWER API  
-Geo Tools	Overpass API (OpenStreetMap) for coast proximity  
-Maps	OpenStreetMap + Leaflet.js  
-Hosting	Compatible with Render, Vercel, or Netlify  
 ________________________________________
 
 🚀 Getting Started  
