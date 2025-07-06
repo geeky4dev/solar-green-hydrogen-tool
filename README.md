@@ -18,8 +18,10 @@ Hosting	Compatible with Render, Vercel, or Netlify
   - 📡 A query is made to the Overpass API looking for natural=coastline nodes within a 100 km (100,000 m) radius.
   - 🌊 The minimum distance between the clicked point and the coastline nodes is calculated using the Haversine formula. 
   - 🌊 **Distance to the Coast (km)** using **OpenStreetMap Overpass API**  
-- 📊 Sizing the electrolyzer using capacity factor and ratio options with the inputs: Calculated solar farm power, battery storage capacity and site-specific irradiation data (from Part 1)  
-
+- 📊 Sizing the electrolyzer using capacity factor and ratio options with the inputs: Calculated solar farm power, battery storage capacity and site-specific irradiation data (from Part 1)
+  
+---
+![solargreenhydrogen](https://github.com/user-attachments/assets/932ff49c-f3f8-46a2-b09b-cfbb9131758d)
 ---
 
 ## 📦 Project Structure  
