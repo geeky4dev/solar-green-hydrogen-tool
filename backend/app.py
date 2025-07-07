@@ -44,7 +44,7 @@ def calculate_distance_to_coast(lat, lon):
         traceback.print_exc()
         raise
 
-@app.route("/solar", methods=["GET"])
+@app.route("/api/solar", methods=["GET"])
 def solar_data():
     try:
         lat_str = request.args.get("lat")
