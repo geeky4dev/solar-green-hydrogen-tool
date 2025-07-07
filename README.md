@@ -117,8 +117,4 @@ ________________________________________
 ________________________________________
 🙌 Contributing  
 Feel free to open issues or submit pull requests! All contributions welcome.  
-________________________________________
-📜 License  
-MIT License — use freely, with attribution. Contributions welcome!  
-Made with ☀️ and 💧 by geeky4dev for renewable energy enthusiasts!  
-________________________________________
+
