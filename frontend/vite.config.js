@@ -5,8 +5,12 @@ export default defineConfig({
   plugins: [react()],
   server: {
     proxy: {
-      '/api': 'http://localhost:5000'
-    }
-  }
+      '/api': {
+        target: 'https://solar-green-hydrogen-tool-backend.onrender.com',
+        changeOrigin: true,
+        secure: true,
+      },
+    },
+  },
 })
 
